@@ -1,0 +1,4 @@
+# Regular Python bytecode file
+*.pyc
+report/
+documents/
